@@ -9,7 +9,7 @@ draw_app.sln: 4A6B86CEA0C5B4438BD5D467EB72357E
 draw_app\App.cs: D9C36BE1BE74C51DCEC88135CE3B6D2F
 draw_app\draw_app.csproj: 949984B69950E0DC9145EDA67C9BAB5B
 draw_app\draw_app.csproj.user: modified
-draw_app\Package.appxmanifest: 6573D33F6F7351B316528166877CFA4B
+draw_app\Package.appxmanifest: CC7400A6AF0BCD2264EBDBABF726A2BC
 draw_app\project.json: 1D02BC64BAC0D041019673A1C4C51737
 draw_app\Assets\SplashScreen.scale-200.png: 60618416282ED104FD1473935716045D
 draw_app\Assets\Square150x150Logo.scale-200.png: E02834B4A5DFB97FF8E212C1CACBB084

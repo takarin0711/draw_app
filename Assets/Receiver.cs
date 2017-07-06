@@ -67,7 +67,6 @@ public class Receiver : MonoBehaviour, ISourceStateHandler, IInputHandler
         }
     }
 
-
     public void ResetLines()
     {
         for (int i = 0; i < cubes.Count; i++)
