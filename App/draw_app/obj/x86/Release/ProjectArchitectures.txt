@@ -1,0 +1,1 @@
+C:\Unity\draw_app\App\draw_app\draw_app.csproj;x86
